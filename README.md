@@ -1,5 +1,10 @@
 # Machine Learning - Exoplanet exploration
 
+## Background
+Over a period of nine years in deep space, the NASA Kepler space telescope has been out on a planet-hunting mission to discover hidden planets outside of our solar system.
+To help process this data, you will create machine learning models capable of classifying candidate exoplanets from the raw dataset.
+
+
   The project is concerned with determining a machine learning model that processes several <a href = 'https://exoplanetarchive.ipac.caltech.edu/docs/API_kepcandidate_columns.html'>features</a> recorded by the Kepler Space Observatory, and predicts with reasonable accuracy the presence of a planet.
 
 The <a href='https://github.com/florin-vasiliu/machine-learning-challenge/blob/master/data/exoplanet_data.csv'>dataset</a> consists of a discrete label column, and several features together with their uncertainities, that will be used to build the model. 
